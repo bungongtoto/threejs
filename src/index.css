@@ -15,6 +15,7 @@ html {
   }
 }
 
+
 .app {
   @apply relative w-full h-screen overflow-hidden;
 }
